@@ -1,3 +1,5 @@
 # 3 Seminar 
 
-## Change form local repository
+## Change from local repository
+
+## Change from remote repository
